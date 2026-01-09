@@ -1,0 +1,26 @@
+{
+  "name": "lafleur-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:html": "htmlhint '**/*.html'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelPeix/lafleur-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MiguelPeix/lafleur-devops/issues"
+  },
+  "homepage": "https://github.com/MiguelPeix/lafleur-devops#readme",
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^1.8.0"
+  }
+}
